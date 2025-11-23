@@ -18,7 +18,6 @@
 
 <img width="946" height="343" alt="image" src="https://github.com/user-attachments/assets/1a85417a-697c-4731-bef5-28f72eda12e0" />
 
-![image](https://github.com/user-attachments/assets/ded7265d-ee5f-4683-8181-aa8597662e25)
 <img width="941" height="412" alt="image" src="https://github.com/user-attachments/assets/32ee0733-5773-4f0e-9d90-f988e512a303" />
 
 
@@ -47,3 +46,4 @@ npm run lint
 ```
 npm run dev
 ```
+
