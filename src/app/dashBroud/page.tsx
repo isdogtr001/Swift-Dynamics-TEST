@@ -492,7 +492,13 @@ export default function Home() {
           </div>
 
           <div className={styles.buttonRow}>
-            <Button type="default" onClick={() => form.resetFields()}>
+            <Button
+              type="default"
+              onClick={() => {
+                setEditMode(false);
+                form.resetFields();
+              }}
+            >
               {t('Reset')}
             </Button>
             <Form.Item label={null}>
